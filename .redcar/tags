@@ -1,4 +1,4 @@
-1305798735
+1305801437
 Application	/home/finrod/workspace/rails_projects/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/finrod/workspace/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/finrod/workspace/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
@@ -79,6 +79,7 @@ grep	/home/finrod/workspace/rails_projects/sample_app/public/javascripts/prototy
 gsub	/home/finrod/workspace/rails_projects/sample_app/public/javascripts/prototype.js	function gsub(pattern, replacement)
 handleMethod	/home/finrod/workspace/rails_projects/sample_app/public/javascripts/rails.js	function handleMethod(element)
 handleRemote	/home/finrod/workspace/rails_projects/sample_app/public/javascripts/rails.js	function handleRemote(element)
+help	/home/finrod/workspace/rails_projects/sample_app/app/controllers/pages_controller.rb	  def help
 home	/home/finrod/workspace/rails_projects/sample_app/app/controllers/pages_controller.rb	  def home
 inGroupsOf	/home/finrod/workspace/rails_projects/sample_app/public/javascripts/prototype.js	function inGroupsOf(number, fillWith)
 include	/home/finrod/workspace/rails_projects/sample_app/public/javascripts/prototype.js	function include(object)
