@@ -4,6 +4,8 @@ log/*.log
 *.log
 tmp/
 tmp/**/*
+.redcar/
+.redcar/**/*
 /tmp/
 doc/
 *.swp
