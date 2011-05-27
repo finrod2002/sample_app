@@ -1,4 +1,4 @@
-1306509703
+1306512907
 Application	/home/finrod/workspace/rails_projects/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/finrod/workspace/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/finrod/workspace/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
@@ -123,6 +123,7 @@ keys	/home/finrod/workspace/rails_projects/sample_app/public/javascripts/prototy
 klass	/home/finrod/workspace/rails_projects/sample_app/public/javascripts/prototype.js	function klass()
 last	/home/finrod/workspace/rails_projects/sample_app/public/javascripts/prototype.js	function last()
 lastIndexOf	/home/finrod/workspace/rails_projects/sample_app/public/javascripts/prototype.js	function lastIndexOf(item, i)
+logo	/home/finrod/workspace/rails_projects/sample_app/app/helpers/application_helper.rb	  def logo
 match	/home/finrod/workspace/rails_projects/sample_app/public/javascripts/prototype.js	function match()
 match	/home/finrod/workspace/rails_projects/sample_app/public/javascripts/prototype.js	function match(element, selector)
 max	/home/finrod/workspace/rails_projects/sample_app/public/javascripts/prototype.js	function max(iterator, context)
